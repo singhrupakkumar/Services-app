@@ -1,0 +1,3 @@
+[11-Jun-2017 18:12:02 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 4718592) (tried to allocate 248 bytes) in /home/rubal/public_html/omega/lib/Cake/Model/Datasource/Database/Mysql.php on line 28
+[11-Jun-2017 18:12:02 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 3932160) (tried to allocate 3072 bytes) in /home/rubal/public_html/omega/lib/Cake/Core/App.php on line 567
+[11-Jun-2017 18:12:02 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 4718592) (tried to allocate 248 bytes) in /home/rubal/public_html/omega/lib/Cake/Model/Datasource/Database/Mysql.php on line 28

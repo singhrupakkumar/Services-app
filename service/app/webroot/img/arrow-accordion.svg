@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="13px" height="8px" viewBox="0 0 13 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>back arrow 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Venue_Page_Responsive_Boot4_1440" sketch:type="MSArtboardGroup" transform="translate(-1040.000000, -1287.000000)" fill="#000000">
+            <g id="Venue-Content" sketch:type="MSLayerGroup" transform="translate(260.000000, 1219.000000)">
+                <g id="Group-4" transform="translate(570.000000, 23.000000)" sketch:type="MSShapeGroup">
+                    <path d="M213,49 L218.726024,43 L220,44.2795412 L215.275341,49 L220,53.7204588 L218.726024,55 L213,49 Z" id="back-arrow-5" transform="translate(216.500000, 49.000000) rotate(-90.000000) translate(-216.500000, -49.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

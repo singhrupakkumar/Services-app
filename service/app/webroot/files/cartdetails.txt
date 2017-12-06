@@ -1,0 +1,23 @@
+stdClass Object
+(
+    [Restaurant] => stdClass Object
+        (
+            [rid] => 625
+        )
+
+    [Product] => stdClass Object
+        (
+            [id] => 51
+        )
+
+    [User] => stdClass Object
+        (
+            [uid] => 1
+        )
+
+    [Quantity] => stdClass Object
+        (
+            [qty] => 1
+        )
+
+)

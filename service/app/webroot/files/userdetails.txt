@@ -1,0 +1,8 @@
+stdClass Object
+(
+    [User] => stdClass Object
+        (
+            [uid] => 1
+        )
+
+)

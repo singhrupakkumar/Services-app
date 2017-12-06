@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Venue_Page_Responsive_Boot4_1440" sketch:type="MSArtboardGroup" transform="translate(-419.000000, -1103.000000)" fill="#AC9456">
+            <g id="Map-Content" sketch:type="MSLayerGroup" transform="translate(216.000000, 1003.000000)">
+                <g id="Group-2" transform="translate(46.000000, 100.000000)" sketch:type="MSShapeGroup">
+                    <path d="M172.765941,7.43585896 L165.564141,0.234058515 C165.252063,-0.0780195049 164.747937,-0.0780195049 164.435859,0.234058515 L157.234059,7.43585896 C156.92198,7.74793698 156.92198,8.25206302 157.234059,8.56414104 L164.435859,15.7659415 C164.747937,16.0780195 165.252063,16.0780195 165.564141,15.7659415 L172.765941,8.56414104 C173.07802,8.26006502 173.07802,7.75593898 172.765941,7.43585896 L172.765941,7.43585896 Z M166.596399,10.0045011 L166.596399,8.004001 L163.395599,8.004001 L163.395599,10.4046012 L161.795199,10.4046012 L161.795199,7.20380095 C161.795199,6.76369092 162.155289,6.4036009 162.595399,6.4036009 L166.596399,6.4036009 L166.596399,4.40310078 L169.397099,7.20380095 L166.596399,10.0045011 L166.596399,10.0045011 Z" id="Shape-Copy"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

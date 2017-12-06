@@ -1,0 +1,6 @@
+stdClass Object
+(
+    [resname] => A
+    [id] => 1
+    [user_id] => 1
+)

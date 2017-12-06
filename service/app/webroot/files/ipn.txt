@@ -1,0 +1,196 @@
+CakeRequest Object
+(
+    [params] => Array
+        (
+            [plugin] => 
+            [controller] => shop
+            [action] => ipn
+            [named] => Array
+                (
+                )
+
+            [pass] => Array
+                (
+                )
+
+            [isAjax] => 
+        )
+
+    [data] => Array
+        (
+            [mc_gross] => 310.00
+            [protection_eligibility] => Eligible
+            [address_status] => confirmed
+            [payer_id] => S2DT56HH2K528
+            [tax] => 0.00
+            [address_street] => 1 Main St
+            [payment_date] => 03:36:10 Dec 13, 2016 PST
+            [payment_status] => Completed
+            [charset] => windows-1252
+            [address_zip] => 95131
+            [first_name] => ashutosh
+            [mc_fee] => 9.29
+            [address_country_code] => US
+            [address_name] => ashutosh kumar
+            [notify_version] => 3.8
+            [custom] => 1591
+            [payer_status] => unverified
+            [business] => ashutosh@avainfotech.com
+            [address_country] => United States
+            [address_city] => San Jose
+            [quantity] => 1
+            [verify_sign] => Ajtz-cA8rI-d8a7OFNVMzUX32aZpAaCjnV2x6xbONufPymR9YIrmqqUU
+            [payer_email] => simerjit@avainfotech.com
+            [txn_id] => 7WV74254L1247345E
+            [payment_type] => instant
+            [last_name] => kumar
+            [address_state] => CA
+            [receiver_email] => ashutosh@avainfotech.com
+            [payment_fee] => 9.29
+            [receiver_id] => AE97ZQH6RBQZY
+            [txn_type] => web_accept
+            [item_name] => 
+            [mc_currency] => USD
+            [item_number] => 
+            [residence_country] => US
+            [test_ipn] => 1
+            [handling_amount] => 0.00
+            [transaction_subject] => 
+            [payment_gross] => 310.00
+            [shipping] => 0.00
+            [ipn_track_id] => bf98ee011d5b3
+        )
+
+    [query] => Array
+        (
+        )
+
+    [url] => shop/ipn
+    [base] => 
+    [webroot] => /
+    [here] => /shop/ipn
+    [_detectors:protected] => Array
+        (
+            [get] => Array
+                (
+                    [env] => REQUEST_METHOD
+                    [value] => GET
+                )
+
+            [post] => Array
+                (
+                    [env] => REQUEST_METHOD
+                    [value] => POST
+                )
+
+            [put] => Array
+                (
+                    [env] => REQUEST_METHOD
+                    [value] => PUT
+                )
+
+            [delete] => Array
+                (
+                    [env] => REQUEST_METHOD
+                    [value] => DELETE
+                )
+
+            [head] => Array
+                (
+                    [env] => REQUEST_METHOD
+                    [value] => HEAD
+                )
+
+            [options] => Array
+                (
+                    [env] => REQUEST_METHOD
+                    [value] => OPTIONS
+                )
+
+            [ssl] => Array
+                (
+                    [env] => HTTPS
+                    [value] => 1
+                )
+
+            [ajax] => Array
+                (
+                    [env] => HTTP_X_REQUESTED_WITH
+                    [value] => XMLHttpRequest
+                )
+
+            [flash] => Array
+                (
+                    [env] => HTTP_USER_AGENT
+                    [pattern] => /^(Shockwave|Adobe) Flash/
+                )
+
+            [mobile] => Array
+                (
+                    [env] => HTTP_USER_AGENT
+                    [options] => Array
+                        (
+                            [0] => Android
+                            [1] => AvantGo
+                            [2] => BB10
+                            [3] => BlackBerry
+                            [4] => DoCoMo
+                            [5] => Fennec
+                            [6] => iPod
+                            [7] => iPhone
+                            [8] => iPad
+                            [9] => J2ME
+                            [10] => MIDP
+                            [11] => NetFront
+                            [12] => Nokia
+                            [13] => Opera Mini
+                            [14] => Opera Mobi
+                            [15] => PalmOS
+                            [16] => PalmSource
+                            [17] => portalmmm
+                            [18] => Plucker
+                            [19] => ReqwirelessWeb
+                            [20] => SonyEricsson
+                            [21] => Symbian
+                            [22] => UP\.Browser
+                            [23] => webOS
+                            [24] => Windows CE
+                            [25] => Windows Phone OS
+                            [26] => Xiino
+                        )
+
+                )
+
+            [requested] => Array
+                (
+                    [param] => requested
+                    [value] => 1
+                )
+
+            [json] => Array
+                (
+                    [accept] => Array
+                        (
+                            [0] => application/json
+                        )
+
+                    [param] => ext
+                    [value] => json
+                )
+
+            [xml] => Array
+                (
+                    [accept] => Array
+                        (
+                            [0] => application/xml
+                            [1] => text/xml
+                        )
+
+                    [param] => ext
+                    [value] => xml
+                )
+
+        )
+
+    [_input:protected] => 
+)

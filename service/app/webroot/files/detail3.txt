@@ -1,0 +1,11 @@
+Array
+(
+    [ref] => 250062409220051021
+    [result] => SUCCESS
+    [payid] => 132080
+    [crdtype] => KNET
+    [trackid] => 45445457007
+    [amt] => 10.000
+    [crd] => 
+    [hash] => eede8758aa48479f97e3b4d54bcfe6043df67badfb713e38265e84db9b4a278e
+)
